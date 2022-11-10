@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariozivkovic
+- 👋 Hi, I’m Mario Živković
 - 👀 I’m interested in programming
 - 🌱 I’m currently on the java developer course
 - 💞️ I’m looking to collaborate on the future projects
